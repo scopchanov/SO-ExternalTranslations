@@ -1,0 +1,10 @@
+{
+    "language": "en",
+    "title": "Form",
+    "fields": [
+        { "name": "Customer" },
+        { "name": "Category" },
+        { "name": "Product" },
+        { "name": "Price" }
+    ]
+}

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/txt">
+        <file>data.json</file>
+    </qresource>
+    <qresource prefix="/bin">
+        <file>translations/myapp_de.qm</file>
+        <file>translations/myapp_pl.qm</file>
+        <file>translations/myapp_ru.qm</file>
+        <file>translations/myapp_es.qm</file>
+    </qresource>
+</RCC>

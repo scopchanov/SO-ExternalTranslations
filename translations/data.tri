@@ -1,0 +1,8 @@
+// Form title
+QT_TRANSLATE_NOOP("MainWindow", "Form");
+
+// Form fields
+QT_TRANSLATE_NOOP("MainWindow", "Customer");
+QT_TRANSLATE_NOOP("MainWindow", "Category");
+QT_TRANSLATE_NOOP("MainWindow", "Product");
+QT_TRANSLATE_NOOP("MainWindow", "Price");
